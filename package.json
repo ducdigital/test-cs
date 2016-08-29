@@ -1,0 +1,15 @@
+{
+  "name": "content-square-test",
+  "version": "1.0.0",
+  "description": "Test for Content Square. Solution in Node.JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./node_modules/mocha/bin/mocha test --recursive"
+  },
+  "engines" : { "node" : ">=4.4.0" },
+  "author": "Ta Duy Duc",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^3.0.2"
+  }
+}
